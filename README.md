@@ -1,27 +1,25 @@
-## Replication Package Template - README.md
+<h1 align = "center"> "Grandmothers and the Gender Gap in the Mexican Labor Market": Replication Package </h1>
 
-This README template is part of the guidelines for publishing Replication Packages. It contains all the necessary information that can help researchers reproduce your research effectively. The template was constructed based on the best practices for reproducing research [^1], but it is flexible and can be modified according to your specific research needs. If you have any comments or recommendations, you can create an issue in this repository.
-
-## Template starts here 👇
-
-<h1 align = "center"> "Research name": Replication Package </h1>
-
-Include a short overview of the available code and materials, including the name of the research, the author names and the following text: If you run into any troubles running this code or reproducing results, please create an Issue in this repository.
+This repository contains the replication materials for the IDB Working Paper "Grandmothers and the Gender Gap in the Mexican Labor Market".
 
 ## Related materials
 
-Include the links to related knowledge materials:
-
-- 📊 Dataset: [Dataset Name](https://mydata.iadb.org/)
-- 📖 Publication: [Publication Name](https://publications.iadb.org/en/)
-
-## Data Availability Statement 
-
-Include all the information about the data sources used in the replication package. You can also include any additional information that is necessary to obtain the data. These may include required registrations, memberships, application procedures, monetary cost, or other qualifications.
+- 📊 Datasets: 
+  - [ENOE Dataset](https://mydata.iadb.org/Gender/Grandmothers-and-the-Gender-Gap-in-the-Mexican-Lab/h3ek-xh3t)
+  - [ENESS Dataset](https://mydata.iadb.org/Gender/Grandmothers-and-the-Gender-Gap-in-the-Mexican-Lab/m9i9-h5fm)
+- 📖 Publication: [Grandmothers and the Gender Gap in the Mexican Labor Market](https://publications.iadb.org/en/grandmothers-and-gender-gap-mexican-labor-market/)
 
 ## Instructions to replicators
 
-Explain the basic steps on how to reproduce the research results. In this section, it is recommended to use bullet points to provide details about which scripts should be opened and in what order. Please note that replication packages typically do not require any manual intervention from the user. They usually include a master script that enables the replication of all the results.
+Globals needed to run individual do-files are in “A Run All.do”. If you open the do file directly from the folder, then the first four lines will adjust the path to that of your computer. This do file will run all the codes for the figures and tables, but each can be executed separately after running the global lines. The folders Tables and Figures will have the output of the do-file.
+
+Folders:
+- Code: Folder with do files for tables and figures in the paper and Appendix
+- Data: Data is stored in mydata.iadb.org. 
+- Figures: Folder necessary for replication containing the tables of the paper 
+- Tables: Tables necessary for replication containing the figures of the paper
+- DataMethodology: Document with the methodology used to build the dataset  “3GenPanel.dta”
+- Variables: Dictionary of variables of  “3GenPanel.dta”
 
 ### Dependencies and Computational Requirements
 
