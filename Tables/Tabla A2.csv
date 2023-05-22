@@ -1,0 +1,5 @@
+﻿sample,mom,n,employed,any_work,any_paidwork,eda,n_hij,hrsocup,ing_x_hrs,ingocup,formal,t_ind_max
+sample,1,484454,0,1,1,32,2,19,12,2080,0,6
+sample_unbalanced,1,561119,0,1,1,32,2,19,12,2104,0,6
+sample_any_gm,1,487651,0,1,1,32,2,19,12,2081,0,6
+sample_any_p,1,620172,0,1,1,32,2,19,11,2016,0,6

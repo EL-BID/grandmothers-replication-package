@@ -1,0 +1,24 @@
+
+="                                             ",="(1)",="(2)"
+="                                             ",="employed",="employed"
+
+="d_gm_died                                    ",="-0.0154",="-0.0156"
+="                                             ",="(0.0133)",="(0.0133)"
+
+="d_gm_died_le                                 ",="-0.123***",="-0.122***"
+="                                             ",="(0.0305)",="(0.0305)"
+
+="d_gm_died_CC                                 ",="0.00974",="0.0101"
+="                                             ",="(0.00884)",="(0.00873)"
+
+="d_gm_died_le_CC                              ",="0.0205",="0.0148"
+="                                             ",="(0.0346)",="(0.0333)"
+
+="Sample Size                                  ",="484454",="484454"
+="Clustered SE                                 ",="HH",="HH"
+="First Stage Sample Size                      ",="1562",="-"
+="Interaction                                  ",="Z_EI_N_p0a5_20_r",="Z_EI_N_p0a5_20"
+="First Stage                                  ",="Y",="N"
+="Fixed Effects                                ",="ID yq_c_loc_group_sex yq_c_o_le_5_sex yq_c_gm_died_sex",="ID yq_c_loc_group_sex yq_c_o_le_5_sex yq_c_gm_died_sex"
+="Clustered SE                                 ",="HH_ID",="HH_ID"
+
