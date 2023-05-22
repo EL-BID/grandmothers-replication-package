@@ -1,6 +1,6 @@
 <h1 align = "center"> "Grandmothers and the Gender Gap in the Mexican Labor Market": Replication Materials </h1>
 
-This repository contains the replication materials for the IDB Working Paper [Grandmothers and the Gender Gap in the Mexican Labor Market](https://publications.iadb.org/en/grandmothers-and-gender-gap-mexican-labor-market/).
+This repository contains the replication materials for the IDB Working Paper [Grandmothers and the Gender Gap in the Mexican Labor Market](http://dx.doi.org/10.18235/0004208).
 
 ## Instructions to replicators
 
@@ -11,14 +11,14 @@ Folders:
 - Data: Data is stored in mydata.iadb.org. 
 - Figures: Folder necessary for replication containing the tables of the paper 
 - Tables: Tables necessary for replication containing the figures of the paper
-- DataMethodology: Document with the methodology used to build the dataset  “3GenPanel.dta”
-- Variables: Dictionary of variables of  [3GenPanel](https://mydata.iadb.org/Gender/Grandmothers-and-the-Gender-Gap-in-the-Mexican-Lab/h3ek-xh3t)
+- DataMethodology: Document with the methodology used to build the dataset [3GenPanel](https://data.iadb.org/DataCatalog/Dataset#DataCatalogID=h3ek-xh3t)
+- Variables: Dictionary of variables of  [3GenPanel](https://data.iadb.org/DataCatalog/Dataset#DataCatalogID=h3ek-xh3t)
 
 ## Related materials
 
-- 📊 Dataset: [ENOE Dataset](https://mydata.iadb.org/Gender/Grandmothers-and-the-Gender-Gap-in-the-Mexican-Lab/h3ek-xh3t)
-- 📖 Publication: [Grandmothers and the Gender Gap in the Mexican Labor Market](https://publications.iadb.org/en/grandmothers-and-gender-gap-mexican-labor-market/)
-
+- 📊 Dataset: [ENOE Dataset](https://data.iadb.org/DataCatalog/Dataset#DataCatalogID=h3ek-xh3t)
+- 📖 Publication: [Grandmothers and the Gender Gap in the Mexican Labor Market](http://dx.doi.org/10.18235/0004208)
+- 📋 Methodology: [Data Methodology](https://github.com/EL-BID/grandmothers-replication-package/blob/main/DataMethodology.md/)
 
 ## Limitation of responsibilities
 
